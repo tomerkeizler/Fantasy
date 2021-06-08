@@ -24,7 +24,7 @@ matplotlib==3.3.1
 mccabe==0.6.1
 numpy==1.19.1
 ortools==7.7.7810
-Pillow==7.2.0
+Pillow==8.2.0
 protobuf==3.12.4
 pylint==2.5.3
 pymongo==3.11.0
